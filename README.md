@@ -51,9 +51,3 @@ Here’s a preview of the project structure:
 
 ---
 
-Feel free to reach out if you have any questions or suggestions. Happy coding! 😊
-
-## 🔗 Connect with Me
-
-- **Portfolio**: [https://ram-com.netlify.app/](https://ram-com.netlify.app/)
-- **LinkedIn**: [https://www.linkedin.com/in/saisriram-kamineni/](https://www.linkedin.com/in/saisriram-kamineni/)
